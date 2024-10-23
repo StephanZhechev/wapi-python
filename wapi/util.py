@@ -33,10 +33,10 @@ _TS_FREQ_TABLE = {
     'H12': '12H',
     'H6': '6H',
     'H3': '3H',
-    'MIN30': '30T',
-    'MIN15': '15T',
-    'MIN5': '5T',
-    'MIN': 'T',
+    'MIN30': '30min',
+    'MIN15': '15min',
+    'MIN5': '5min',
+    'MIN': 'min',
 }
 # Mapping from Pandas to TS is built from map above, with some additions
 _PANDAS_FREQ_TABLE = {
